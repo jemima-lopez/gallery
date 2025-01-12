@@ -1,0 +1,17 @@
+@import "./css-rest.css";
+@import "~react-image-gallery/styles/css/image-gallery.css";
+/* Removed invalid import statement */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body { 
+  margin: 0;
+  font-family: 'Bold', sans-serif;
+  background-color: #b9eef5;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
